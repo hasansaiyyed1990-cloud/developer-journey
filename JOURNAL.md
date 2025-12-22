@@ -4,3 +4,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 
 
 - [2025-12-19T13:31:32] feat: implement binary search tree in Java
+- [2025-12-22T10:55:56] chore: code formatting and linting setup
