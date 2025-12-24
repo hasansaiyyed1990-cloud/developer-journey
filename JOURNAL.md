@@ -11,3 +11,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2025-12-24T14:23:55] feat: add Tailwind CSS dark mode configuration
 - [2025-12-24T18:26:03] chore: update dependencies in pom.xml
 - [2025-12-24T19:29:16] test: add unit tests for user authentication service
+- [2025-12-24T18:35:40] docs: document Spring Boot REST API endpoints
