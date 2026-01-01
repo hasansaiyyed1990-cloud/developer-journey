@@ -23,3 +23,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2025-12-29T20:42:53] docs: add system design diagrams and notes
 - [2025-12-29T14:22:43] docs: document Spring Boot REST API endpoints
 - [2025-12-31T16:00:11] refactor: optimize database index for faster lookups
+- [2026-01-01T16:32:53] test: add unit tests for user authentication service
