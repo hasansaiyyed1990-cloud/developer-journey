@@ -41,3 +41,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-01-09T11:51:02] feat: add TypeScript interface definitions for API response
 - [2026-01-09T10:44:41] refactor: optimize database index for faster lookups
 - [2026-01-09T20:33:32] feat: implement binary search tree in Java
+- [2026-01-10T18:57:48] feat: implement binary search tree in Java
