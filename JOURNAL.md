@@ -77,3 +77,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-01-27T13:56:26] refactor: modularize CSS utility classes with Tailwind
 - [2026-01-28T11:22:28] docs: document Spring Boot REST API endpoints
 - [2026-01-29T20:35:03] feat: configure Docker container multi-stage build
+- [2026-01-29T15:35:07] feat: add debounce handler for search input
