@@ -92,3 +92,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-02-05T18:00:53] feat: implement JWT token refresh flow
 - [2026-02-05T14:48:46] refactor: optimize database index for faster lookups
 - [2026-02-06T17:47:41] feat: implement JWT token refresh flow
+- [2026-02-06T20:53:31] feat: implement binary search tree in Java
