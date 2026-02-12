@@ -104,3 +104,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-02-12T19:29:44] refactor: extract reusable React custom hooks
 - [2026-02-12T10:44:18] feat: add TypeScript interface definitions for API response
 - [2026-02-12T10:15:29] refactor: optimize database index for faster lookups
+- [2026-02-12T10:31:13] feat: implement binary search tree in Java
