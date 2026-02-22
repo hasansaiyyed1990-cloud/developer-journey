@@ -121,3 +121,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-02-18T18:09:35] chore: update dependencies in pom.xml
 - [2026-02-19T13:39:00] feat: implement JWT token refresh flow
 - [2026-02-20T11:48:54] chore: update dependencies in pom.xml
+- [2026-02-22T16:51:35] test: mock external payment API calls
