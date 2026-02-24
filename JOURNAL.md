@@ -124,3 +124,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-02-22T16:51:35] test: mock external payment API calls
 - [2026-02-23T11:33:39] feat: configure Docker container multi-stage build
 - [2026-02-23T10:54:43] docs: add system design diagrams and notes
+- [2026-02-24T10:09:31] fix: resolve null pointer handling in service layer
