@@ -132,3 +132,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-02-25T16:01:15] refactor: modularize CSS utility classes with Tailwind
 - [2026-02-26T21:32:41] refactor: optimize database index for faster lookups
 - [2026-02-26T16:28:51] feat: add Tailwind CSS dark mode configuration
+- [2026-02-26T15:05:29] docs: document Spring Boot REST API endpoints
