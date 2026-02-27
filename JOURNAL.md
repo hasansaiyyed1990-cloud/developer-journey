@@ -134,3 +134,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-02-26T16:28:51] feat: add Tailwind CSS dark mode configuration
 - [2026-02-26T15:05:29] docs: document Spring Boot REST API endpoints
 - [2026-02-27T13:09:58] docs: add system design diagrams and notes
+- [2026-02-27T21:56:27] feat: add debounce handler for search input
