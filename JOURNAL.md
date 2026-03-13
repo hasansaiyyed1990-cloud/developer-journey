@@ -158,3 +158,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-03-11T11:40:35] feat: implement binary search tree in Java
 - [2026-03-13T12:36:24] refactor: extract reusable React custom hooks
 - [2026-03-13T17:49:38] feat: add debounce handler for search input
+- [2026-03-13T10:04:14] chore: update dependencies in pom.xml
