@@ -163,3 +163,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-03-14T13:54:10] perf: optimize memory footprint in microservices
 - [2026-03-15T10:17:00] test: mock external payment API calls
 - [2026-03-16T20:00:09] perf: optimize memory footprint in microservices
+- [2026-03-16T20:19:14] feat: implement binary search tree in Java
