@@ -178,3 +178,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-03-21T18:48:57] docs: document Spring Boot REST API endpoints
 - [2026-03-22T16:54:43] docs: document Spring Boot REST API endpoints
 - [2026-03-23T17:15:03] refactor: optimize database index for faster lookups
+- [2026-03-23T18:52:00] fix: resolve null pointer handling in service layer
