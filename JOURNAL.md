@@ -193,3 +193,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-03-26T16:06:40] feat: add Tailwind CSS dark mode configuration
 - [2026-03-26T15:08:50] perf: optimize memory footprint in microservices
 - [2026-03-27T13:46:21] refactor: modularize CSS utility classes with Tailwind
+- [2026-03-29T13:19:23] feat: implement binary search tree in Java
