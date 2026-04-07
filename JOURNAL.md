@@ -208,3 +208,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-04-06T10:48:05] feat: add responsive navigation component in React
 - [2026-04-06T15:35:02] refactor: extract reusable React custom hooks
 - [2026-04-07T17:11:41] chore: update dependencies in pom.xml
+- [2026-04-07T21:53:11] docs: add system design diagrams and notes
