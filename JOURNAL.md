@@ -224,3 +224,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-04-14T10:26:29] test: mock external payment API calls
 - [2026-04-14T18:49:28] refactor: optimize database index for faster lookups
 - [2026-04-15T17:46:33] test: mock external payment API calls
+- [2026-04-15T14:53:29] feat: implement binary search tree in Java
