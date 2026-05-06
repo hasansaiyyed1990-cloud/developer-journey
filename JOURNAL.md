@@ -271,3 +271,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-05-05T20:23:42] refactor: modularize CSS utility classes with Tailwind
 - [2026-05-05T11:57:18] chore: code formatting and linting setup
 - [2026-05-05T16:43:57] feat: implement JWT token refresh flow
+- [2026-05-06T19:58:37] fix: resolve null pointer handling in service layer
