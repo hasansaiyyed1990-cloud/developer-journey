@@ -286,3 +286,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-05-12T16:21:58] docs: update architecture design notes
 - [2026-05-12T20:59:27] fix: resolve null pointer handling in service layer
 - [2026-05-13T17:34:26] feat: configure Docker container multi-stage build
+- [2026-05-13T17:25:34] chore: update dependencies in pom.xml
