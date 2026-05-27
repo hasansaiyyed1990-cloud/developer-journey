@@ -315,3 +315,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-05-27T17:47:28] docs: document Spring Boot REST API endpoints
 - [2026-05-27T19:32:16] test: mock external payment API calls
 - [2026-05-27T12:37:34] feat: add responsive navigation component in React
+- [2026-05-27T14:08:45] docs: update architecture design notes
