@@ -319,3 +319,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-05-28T21:12:13] feat: add debounce handler for search input
 - [2026-05-29T20:08:46] chore: code formatting and linting setup
 - [2026-05-29T18:26:35] test: mock external payment API calls
+- [2026-05-29T15:14:26] feat: implement binary search tree in Java
