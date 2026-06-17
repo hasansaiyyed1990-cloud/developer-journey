@@ -359,3 +359,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-06-15T10:21:14] feat: configure Docker container multi-stage build
 - [2026-06-16T18:51:02] docs: add system design diagrams and notes
 - [2026-06-16T18:28:22] docs: document Spring Boot REST API endpoints
+- [2026-06-17T12:16:55] test: mock external payment API calls
