@@ -371,3 +371,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-06-21T10:29:04] feat: implement binary search tree in Java
 - [2026-06-22T12:28:55] feat: configure Docker container multi-stage build
 - [2026-06-22T21:26:04] feat: implement JWT token refresh flow
+- [2026-06-22T14:26:22] docs: update architecture design notes
