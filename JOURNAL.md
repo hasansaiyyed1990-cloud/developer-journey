@@ -399,3 +399,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-07-08T16:08:37] docs: document Spring Boot REST API endpoints
 - [2026-07-09T14:27:50] feat: implement JWT token refresh flow
 - [2026-07-09T14:30:02] feat: implement binary search tree in Java
+- [2026-07-11T20:40:34] feat: implement binary search tree in Java
