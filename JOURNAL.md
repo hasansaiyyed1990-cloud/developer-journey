@@ -407,3 +407,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-07-13T14:55:38] feat: add debounce handler for search input
 - [2026-07-13T18:51:45] feat: add responsive navigation component in React
 - [2026-07-14T14:36:59] docs: document Spring Boot REST API endpoints
+- [2026-07-14T13:36:08] docs: add system design diagrams and notes
