@@ -424,3 +424,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-07-21T15:07:25] feat: add debounce handler for search input
 - [2026-07-22T20:51:04] chore: code formatting and linting setup
 - [2026-07-23T19:51:20] docs: add system design diagrams and notes
+- [2026-07-23T20:05:21] feat: implement binary search tree in Java
