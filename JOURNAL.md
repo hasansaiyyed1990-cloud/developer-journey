@@ -445,3 +445,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-07-31T11:14:29] chore: update dependencies in pom.xml
 - [2026-08-01T18:39:32] refactor: modularize CSS utility classes with Tailwind
 - [2026-08-01T16:24:28] refactor: optimize database index for faster lookups
+- [2026-08-02T19:05:55] feat: add debounce handler for search input
