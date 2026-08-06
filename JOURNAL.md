@@ -452,3 +452,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-08-04T21:45:24] test: mock external payment API calls
 - [2026-08-04T12:20:21] docs: update architecture design notes
 - [2026-08-05T15:51:37] docs: update architecture design notes
+- [2026-08-06T17:54:39] chore: update dependencies in pom.xml
