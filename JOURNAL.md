@@ -453,3 +453,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-08-04T12:20:21] docs: update architecture design notes
 - [2026-08-05T15:51:37] docs: update architecture design notes
 - [2026-08-06T17:54:39] chore: update dependencies in pom.xml
+- [2026-08-07T10:54:41] feat: configure Docker container multi-stage build
