@@ -467,3 +467,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-08-11T10:33:00] refactor: modularize CSS utility classes with Tailwind
 - [2026-08-12T18:08:15] refactor: optimize database index for faster lookups
 - [2026-08-12T14:33:37] perf: implement pagination for large datasets
+- [2026-08-12T16:07:17] docs: document Spring Boot REST API endpoints
