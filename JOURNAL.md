@@ -470,3 +470,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-08-12T16:07:17] docs: document Spring Boot REST API endpoints
 - [2026-08-13T11:44:19] feat: add responsive navigation component in React
 - [2026-08-13T19:13:21] refactor: extract reusable React custom hooks
+- [2026-08-14T19:51:40] feat: add debounce handler for search input
