@@ -488,3 +488,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-08-21T16:26:12] perf: implement pagination for large datasets
 - [2026-08-22T11:01:54] feat: implement binary search tree in Java
 - [2026-08-24T20:18:27] feat: add debounce handler for search input
+- [2026-08-24T18:53:09] feat: implement binary search tree in Java
