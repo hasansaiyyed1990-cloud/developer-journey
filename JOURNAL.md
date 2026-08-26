@@ -494,3 +494,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-08-25T21:42:45] feat: configure Docker container multi-stage build
 - [2026-08-25T17:17:26] docs: add system design diagrams and notes
 - [2026-08-25T13:34:43] docs: document Spring Boot REST API endpoints
+- [2026-08-26T11:18:02] feat: add debounce handler for search input
