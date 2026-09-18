@@ -544,3 +544,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-09-17T19:24:33] docs: add system design diagrams and notes
 - [2026-09-18T11:05:50] docs: update architecture design notes
 - [2026-09-18T14:18:05] test: mock external payment API calls
+- [2026-09-18T21:10:23] feat: implement binary search tree in Java
