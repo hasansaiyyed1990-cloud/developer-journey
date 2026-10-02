@@ -565,3 +565,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-09-30T20:20:01] docs: update architecture design notes
 - [2026-10-02T19:48:32] docs: update architecture design notes
 - [2026-10-02T12:46:55] feat: add responsive navigation component in React
+- [2026-10-02T11:47:13] feat: implement binary search tree in Java
