@@ -603,3 +603,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-10-27T19:32:15] chore: code formatting and linting setup
 - [2026-10-27T15:16:02] feat: configure Docker container multi-stage build
 - [2026-10-27T11:33:19] test: mock external payment API calls
+- [2026-10-27T14:02:36] docs: document Spring Boot REST API endpoints
