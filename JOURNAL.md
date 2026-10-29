@@ -608,3 +608,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-10-28T16:50:05] test: add unit tests for user authentication service
 - [2026-10-28T10:00:02] feat: add responsive navigation component in React
 - [2026-10-29T21:00:19] refactor: modularize CSS utility classes with Tailwind
+- [2026-10-29T11:00:54] docs: document Spring Boot REST API endpoints
