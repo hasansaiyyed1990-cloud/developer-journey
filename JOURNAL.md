@@ -610,3 +610,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-10-29T21:00:19] refactor: modularize CSS utility classes with Tailwind
 - [2026-10-29T11:00:54] docs: document Spring Boot REST API endpoints
 - [2026-10-30T10:55:29] feat: add Tailwind CSS dark mode configuration
+- [2026-10-30T16:27:34] feat: implement binary search tree in Java
