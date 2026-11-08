@@ -626,3 +626,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-11-06T10:57:29] test: mock external payment API calls
 - [2026-11-07T14:26:36] docs: document Spring Boot REST API endpoints
 - [2026-11-07T11:19:19] refactor: extract reusable React custom hooks
+- [2026-11-08T21:22:19] feat: add debounce handler for search input
