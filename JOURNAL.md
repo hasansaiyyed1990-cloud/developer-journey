@@ -651,3 +651,4 @@ Daily full-stack development progress, algorithm challenges, and technical exper
 - [2026-11-19T16:21:28] feat: configure Docker container multi-stage build
 - [2026-11-20T13:45:13] feat: implement binary search tree in Java
 - [2026-11-20T14:31:52] refactor: extract reusable React custom hooks
+- [2026-11-20T19:31:01] feat: add debounce handler for search input
